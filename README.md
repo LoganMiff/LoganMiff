@@ -40,7 +40,6 @@ My experience spans across low-level performance optimization, full-text search 
 
 ### 🏆 Achievements
 ![2025 NCCDC National Champion](https://img.shields.io/badge/2025_NCCDC_National_Champion-FFD700?style=for-the-badge&logoColor=black)
-![Dean's Honor List](https://img.shields.io/badge/Dean's_Honor_List-0064A4?style=for-the-badge&logoColor=white)
 
 ---
 
